@@ -1,4 +1,8 @@
-# Hello, my name is [Kasra] !
+# Hello, my name is Kasra !
+
+## About Me :
+
+I don't have such a complicated life, I'm a computer science student with full love and passion for technology and system administrator, and of course, most importantly, computers, I'm about 21 years old :)
 
 
 
